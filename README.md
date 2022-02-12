@@ -27,6 +27,11 @@ http://bd.china-embassy.org/chn/lsyw/lsxx/202011/t20201102_1780828.htm
 
 
 # 回国信息及Covid-19相关新闻汇总
+## Update: 2022-02-12
+国家药监局应急附条件批准辉瑞公司新冠病毒治疗药物奈玛特韦片/利托那韦片组合包装进口注册 \
+https://www.nmpa.gov.cn/yaowen/ypjgyw/20220212085753142.html \
+2月11日，国家药监局根据《药品管理法》相关规定，按照药品特别审批程序，进行应急审评审批，附条件批准辉瑞公司新冠病毒治疗药物奈玛特韦片/利托那韦片组合包装(即Paxlovid)进口注册。 \
+
 ## Update: 2022-01-27
 欧洲药品管理局批准使用辉瑞口服药 \
 https://www.ema.europa.eu/en/news/covid-19-ema-recommends-conditional-marketing-authorisation-paxlovid \
